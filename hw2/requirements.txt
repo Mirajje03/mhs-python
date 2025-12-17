@@ -1,0 +1,3 @@
+build
+twine
+https://test-files.pythonhosted.org/packages/88/eb/b4964081b35771d788f45fde3443aca0b99849d222374cb2ea027e22cdab/latex_gen_assignment-1.1-py3-none-any.whl
