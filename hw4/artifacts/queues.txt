@@ -1,0 +1,29 @@
+привет
+User input: привет, time: 1.7858688831329346
+Process B Output: привет, time: 6.796520948410034
+ПрПиВивиет
+User input: ПрПиВивиет, time: 11.851094961166382
+Process B Output: прпививиет, time: 16.853914737701416
+а
+User input: а, time: 20.52253270149231
+б
+User input: б, time: 21.003451824188232
+в
+User input: в, time: 21.43990683555603
+г
+User input: г, time: 22.260941743850708
+д
+User input: д, time: 22.880223989486694
+Process B Output: а, time: 25.528668880462646
+Process B Output: б, time: 30.532407760620117
+Process B Output: в, time: 35.53776788711548
+Process B Output: г, time: 40.541865825653076
+Process B Output: д, time: 45.54582381248474
+hello
+User input: hello, time: 52.06756782531738
+Process B Output: uryyb, time: 57.06913375854492
+uryyb
+User input: uryyb, time: 62.05520796775818
+Process B Output: hello, time: 67.06125473976135
+exit
+User input: exit, time: 70.41581177711487

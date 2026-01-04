@@ -1,0 +1,25 @@
+Process pool executor, n_jobs = 1, elapsed: 0.51133 seconds
+Process pool executor, n_jobs = 2, elapsed: 0.28127 seconds
+Process pool executor, n_jobs = 3, elapsed: 0.20495 seconds
+Process pool executor, n_jobs = 4, elapsed: 0.16434 seconds
+Process pool executor, n_jobs = 5, elapsed: 0.14594 seconds
+Process pool executor, n_jobs = 6, elapsed: 0.13175 seconds
+Process pool executor, n_jobs = 7, elapsed: 0.13592 seconds
+Process pool executor, n_jobs = 8, elapsed: 0.13927 seconds
+Process pool executor, n_jobs = 9, elapsed: 0.13046 seconds
+Process pool executor, n_jobs = 10, elapsed: 0.13900 seconds
+Process pool executor, n_jobs = 11, elapsed: 0.13498 seconds
+Process pool executor, n_jobs = 12, elapsed: 0.13701 seconds
+
+Thread pool executor, n_jobs = 1, elapsed: 0.45179 seconds
+Thread pool executor, n_jobs = 2, elapsed: 0.44646 seconds
+Thread pool executor, n_jobs = 3, elapsed: 0.44268 seconds
+Thread pool executor, n_jobs = 4, elapsed: 0.43930 seconds
+Thread pool executor, n_jobs = 5, elapsed: 0.43760 seconds
+Thread pool executor, n_jobs = 6, elapsed: 0.44050 seconds
+Thread pool executor, n_jobs = 7, elapsed: 0.43491 seconds
+Thread pool executor, n_jobs = 8, elapsed: 0.43536 seconds
+Thread pool executor, n_jobs = 9, elapsed: 0.43818 seconds
+Thread pool executor, n_jobs = 10, elapsed: 0.43347 seconds
+Thread pool executor, n_jobs = 11, elapsed: 0.44287 seconds
+Thread pool executor, n_jobs = 12, elapsed: 0.43710 seconds
